@@ -1,0 +1,38 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(835): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(836): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(842): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(843): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(849): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(858): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(860): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(865): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(866): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(869): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(871): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(874): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(876): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(883): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(888): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(897): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(903): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(913): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(915): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(920): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(921): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(924): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(926): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(929): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(931): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(938): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(943): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(1046): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(1047): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(1049): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\walter mulwa\source\repos\cppclr_winformsprojekt5\cppclr_winformsprojekt5\Form1.h(1050): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Form1.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  CppCLR_WinformsProjekt5.vcxproj -> C:\Users\Walter Mulwa\source\repos\CppCLR_WinformsProjekt5\x64\Debug\Oblique_Shock.exe

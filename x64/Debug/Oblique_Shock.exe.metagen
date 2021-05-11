@@ -1,0 +1,42 @@
+  CppCLR_WinformsProjekt5.Form1.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Oblique_Shock, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class CppCLR_WinformsProjekt.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Single m : Public
+    Single m1 : Public
+    Single m2w : Public
+    Single m2s : Public
+    Single delta : Public
+    Single betaw : Public
+    Single betas : Public
+    Single m1nw : Public
+    Single m1ns : Public
+    Single m2nw : Public
+    Single m2ns : Public
+    Single p2p1w : Public
+    Single p2p1s : Public
+    Single rho2rho1w : Public
+    Single rho2rho1s : Public
+    Single t2t1w : Public
+    Single t2t1s : Public
+    Single p02p01w : Public
+    Single p02p01s : Public
+    Single h2h1w : Public
+    Single h2h1s : Public
+    Single gama : Public
